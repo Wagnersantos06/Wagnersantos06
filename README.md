@@ -14,7 +14,7 @@
 <img src = "https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/linux-tux.svg" title = "LINUX" alt = "LINUX" width = "40" height = "40"/>&nbsp;
 </div>
 
----
+<br>
 
 <div id="badges">
 
