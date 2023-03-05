@@ -1,4 +1,4 @@
-<img src = "banner.gif" width = "325px" align = "right">
+<img src = "banner.gif" width = "480px" align = "right">
 
 # Bem vindo(a) ao meu Github! É um prazer ter você por aqui!
 🪛 Estudante de Manutenção e Suporte;
@@ -24,4 +24,11 @@
 <a href = "https://www.instagram.com/wagner._.santos_/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instragram Badge"/>
 </a>
+</div>
+
+<br>
+
+<div align = "center">
+<img height = "130em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Wagnersantos06&hide_progress=true&theme=github_dark" />
+<img height = "130em" src = "https://github-readme-stats.vercel.app/api?username=Wagnersantos06&show_icons=true&theme=github_dark" />
 </div>
